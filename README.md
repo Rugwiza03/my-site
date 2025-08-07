@@ -1,4 +1,4 @@
-# Git Integration & Wix CLI <img align="left" src="https://user-images.githubusercontent.com/89579857/185785022-cab37bf5-26be-4f11-85f0-1fac63c07d3b.png">
+ # Git Integration & Wix CLI <img align="left" src="https://user-images.githubusercontent.com/89579857/185785022-cab37bf5-26be-4f11-85f0-1fac63c07d3b.png">
 
 This repository is part of the Git Integration & Wix CLI workflow—a set of tools that allow you to develop, test, and deploy Wix site code locally on your machine.
 
